@@ -1,8 +1,61 @@
-## Welcome!
-Laborocto is a network collaboration between eight Forte-funded programs on work-life research. The network is aimed at long-run promotion of work-life research. Around 100 researchers at all career stages from more than 10 disciplines take part in the network.
+## 🧠 Better, Easier Work-Life Research
 
-The network is aimed at long-run promotion of work-life research. Insights gained through organized cross-disciplinary exchange will contribute to increasing research quality.
+**Laborocto** is a collaborative network uniting eight research programs funded by [Forte](https://forte.se), focused on advancing Swedish work-life research. 
 
-Around 100 researchers at all career stages from more than 10 disciplines take part in the network, with a close to even gender balance.
+- 🔬 Around **100 researchers**
+- 🧑‍🔬 From **10+ academic disciplines**
+- ⚖️ Across **all career stages**
+- ⚧️ With a **near-equal gender balance**
 
-The aims of this github is to improve the quality and accessibility of Swedish occupational data to support labor market and occupational health research. By developing and publishing open-access code libraries, translation keys, and tools on GitHub, we strive to lower the entry barriers for new researchers, reduce the risk of incorrect handling of variables, and improve comparability between research projects.
+Our long-term goal is to promote high-quality, cross-disciplinary research on labor markets, working conditions, and occupational health.
+
+---
+
+## 🎯 Repository Purpose
+
+This GitHub repository is part of Laborocto’s mission to:
+
+- 📊 **Improve** the quality and accessibility of Swedish occupational data
+- 🔎 **Support** labor market and occupational health research
+- 🤝 **Promote** open, reproducible, and collaborative research practices
+
+We develop and share:
+
+- 🧰 Open-access **code libraries**
+- 🧭 **Translation keys** for occupational and industrial classifications
+- 🛠️ Reusable **tools** for managing and analyzing work-life data
+
+Our goals:
+
+- 🚀 Lower entry barriers for new researchers  
+- 🧮 Reduce the risk of misclassifying or mishandling variables  
+- 🔗 Enhance comparability across projects
+
+---
+
+## 💡 Get Involved
+
+We welcome contributions from researchers, students, developers, and others working with occupational data. If you’re interested in contributing or collaborating, feel free to:
+
+- Explore our tools and code
+- Submit an issue or pull request
+- Contact us with suggestions
+
+---
+
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🔗 Related Links
+
+- [Forte – Swedish Research Council for Health, Working Life and Welfare](https://forte.se)
+- [Laborocto Project Info (https://www.su.se/english/research/research-projects/laborocto)
+
+
+
