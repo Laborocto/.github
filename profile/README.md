@@ -1,4 +1,4 @@
-## 🛠️📊 Better, Easier Work-Life Research 📊🛠️
+## 🛠️ Better, Easier Work-Life Research 🛠️
 
 **Laborocto** is a collaborative network uniting eight research programs funded by [Forte](https://forte.se), focused on advancing Swedish work-life research. 
 Our long-term goal is to promote high-quality, cross-disciplinary research on labor markets, working conditions, and occupational health.
