@@ -42,7 +42,11 @@ We welcome contributions from researchers, students, developers, and others work
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+- **🧑‍💻 Code** is licensed under the [MIT License](LICENSE):
+  > A permissive open-source license that allows anyone to use, modify, and share the code—even for commercial purposes—provided that proper credit is given.
+
+- **📚 Documentation and non-code content** (e.g., translation keys, metadata, explanatory texts) is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/):
+  > You are free to share and adapt the material for any purpose, including commercial use, as long as appropriate credit is given.
 
 ---
 
