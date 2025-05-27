@@ -37,9 +37,6 @@ We welcome contributions from researchers, students, developers, and others work
 
 ---
 
-
----
-
 ## 📄 License
 
 - **🧑‍💻 Code** is licensed under the [MIT License](LICENSE):
@@ -53,7 +50,7 @@ We welcome contributions from researchers, students, developers, and others work
 ## 🔗 Related Links
 
 - [Forte – Swedish Research Council for Health, Working Life and Welfare](https://forte.se)
-- [Laborocto Project Info (https://www.su.se/english/research/research-projects/laborocto)]
+- [Laborocto Project Info](https://www.su.se/english/research/research-projects/laborocto)
 
 
 
