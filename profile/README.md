@@ -31,9 +31,9 @@ Our goals:
 
 We welcome contributions from researchers, students, developers, and others working with occupational data. If you’re interested in contributing or collaborating, feel free to:
 
-- Explore our tools and code
+- Explore our [wiki](https://github.com/Laborocto/laborocto/wiki)
 - Submit an issue or pull request
-- Contact us with suggestions
+- Contact us with suggestions: wooseong.kim@ki.se
 
 ---
 
