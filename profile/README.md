@@ -16,7 +16,7 @@ This GitHub repository is part of Laborocto’s mission to:
 We develop and share:
 
 - 🧰 Open-access **code libraries**
-- 🧭 **Translation keys** for occupational and industrial classifications
+- 🧭 [**Translation keys**](https://github.com/Laborocto/variables-help) for occupational and industrial classifications
 - 🛠️ Reusable **tools** for managing and analyzing work-life data
 
 Our goals:
