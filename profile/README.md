@@ -10,7 +10,7 @@ Our long-term goal is to promote high-quality, cross-disciplinary research on la
 This GitHub repository is part of Laborocto’s mission to:
 
 - 📊 **Improve** the quality and accessibility of Swedish occupational data
-- 🔎 **Support** labor market and occupational health research
+- 🔎 **Support** labor market and occupational health research - Visit the [wiki](https://github.com/Laborocto/laborocto/wiki) knowledge base
 - 🤝 **Promote** open, reproducible, and collaborative research practices
 
 We develop and share:
